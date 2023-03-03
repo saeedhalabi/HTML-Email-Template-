@@ -11,4 +11,3 @@ This email template project was created using the following tools:
 Visual Studio Code
 Windows OS
 HTML & CSS
-I hope this updated version meets your requirements! Let me know if there's anything else you need.
